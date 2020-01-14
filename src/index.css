@@ -1,0 +1,28 @@
+#calculator {
+  position: relative;
+  background-color: yellow;
+  width: 40vw;
+  height: 80vh;
+  padding-top: 1vh;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-bottom: 1vh;
+  margin: auto;
+  top: 10vh;
+}
+
+#display {
+  background-color: silver;
+  height: 13vh;
+  font-family: 'Digital-7';
+  font-size: 12vh;
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+button {
+  height: 13vh;
+  background-color: #000080;
+  color: white;
+  font-weight: bold;
+}
